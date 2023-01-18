@@ -9,7 +9,7 @@ public:
     std::vector<string> tech = {"Qt", "HTML5", "CSS3"};
     const *char prefEditor = "Vim";
     const *char so = "Manjaro Linux";    
-    const *char email = "guilherme.ssilva@protonmail.com";
+    const *char email = "guilhermesantos.adv@protonmail.com";
     const *char twitter = "@Guilher_me99";
 };
 
