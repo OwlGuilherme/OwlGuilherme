@@ -63,8 +63,8 @@ public:
 
 ---
 <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSantos99&show_icons=true&theme=dark&border_radius=25&hide_border=true&locale=en&title_color=70eb8bff">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSantos99&layout=compact&theme=dark&border_radius=25&hide_border=true&locale=en&title_color=70eb8bff&hide=Makefile">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OwlGuilherme&show_icons=true&theme=dark&border_radius=25&hide_border=true&locale=en&title_color=70eb8bff">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwlGuilherme&layout=compact&theme=dark&border_radius=25&hide_border=true&locale=en&title_color=70eb8bff&hide=Makefile">
 </div>
 
 ---
