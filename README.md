@@ -1,4 +1,4 @@
-<h2><b>👋🏽 Hi, I’m Guilherme Santos</b></h2>
+<h2><b>👋 Hi, I’m Guilherme Santos</b></h2>
 
 ---
 ```c++
