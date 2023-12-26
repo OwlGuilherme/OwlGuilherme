@@ -5,8 +5,7 @@
 class Guilherme
 {
 public:
-    std::vector<string> code = {"C++", "C","Python"};
-    std::vector<string> tech = {"Qt", "HTML5", "CSS3"};
+    std::vector<string> code = {"C++","Python"};
     const *char prefEditor = "NeoVim";
     const *char so = "Fedora";    
     const *char email = "guilhermesantos.adv@protonmail.com";
