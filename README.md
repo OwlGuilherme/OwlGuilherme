@@ -26,7 +26,6 @@ public:
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="cppImg" align="center" height="45" width="60">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="cImg" align="center" height="45" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="pythonImg" align="center" height="45" width="60">
           
 </div>
@@ -38,7 +37,6 @@ public:
 <h3><b>Technologies</b></h3>
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="qtImg" align="center" height="34" width="45">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="htmlImage" align="center" height="30" width="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="cssImage" align="center" height="30" width="40">
 </div>
